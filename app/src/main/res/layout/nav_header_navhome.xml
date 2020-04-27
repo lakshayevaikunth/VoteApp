@@ -14,7 +14,6 @@
     android:weightSum="1">
 
     <ImageView
-        android:id="@+id/imageView"
         android:layout_width="71dp"
         android:layout_height="23dp"
         app:srcCompat="@drawable/user"

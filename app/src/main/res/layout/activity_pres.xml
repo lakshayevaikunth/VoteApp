@@ -59,7 +59,6 @@
     </RadioGroup>
 
     <TextView
-        android:id="@+id/textView11"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="You selected:"
@@ -89,7 +88,6 @@
         android:layout_toStartOf="@+id/btnsend" />
 
     <ImageView
-        android:id="@+id/imageView12"
         android:layout_width="90dp"
         android:layout_height="90dp"
         app:srcCompat="@drawable/pres1"

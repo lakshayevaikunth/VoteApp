@@ -63,7 +63,6 @@
     </RadioGroup>
 
     <ImageView
-        android:id="@+id/imageView14"
         android:layout_width="100dp"
         android:layout_height="100dp"
         app:srcCompat="@drawable/gov3"
