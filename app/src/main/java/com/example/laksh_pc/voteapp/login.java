@@ -1,9 +1,10 @@
 package com.example.laksh_pc.voteapp;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class login extends AppCompatActivity {
 

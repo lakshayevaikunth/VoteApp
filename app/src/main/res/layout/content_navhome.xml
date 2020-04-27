@@ -10,7 +10,6 @@
     tools:showIn="@layout/app_bar_navhome">
 
     <Button
-        android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Proceed"
@@ -48,7 +47,6 @@
         tools:text="Email" />
 
     <ImageView
-        android:id="@+id/imageView7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/vo"
@@ -57,7 +55,6 @@
         android:layout_marginTop="16dp" />
 
     <Button
-        android:id="@+id/button8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="50dp"
